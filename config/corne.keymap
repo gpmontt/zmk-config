@@ -29,7 +29,7 @@
 //                    | GUI |     | SPC |   | ENT |     | ALT |
                         bindings = <
    &kp ESC    &kp NUM_1       &kp NUM_2    &kp NUM_3       &kp NUM_4    &kp NUM_5         &kp NUM_6 &kp NUM_7 &kp NUM_8 &kp NUM_9 &kp NUM_0 &kp DEL
-   &bt BT_CLR &trans          &trans       &trans          &trans       &trans            &trans    &kp LARW  &kp DARW  &kp UARW  &kp RARW  &kp PRSC
+   &trans     &trans          &trans       &trans          &trans       &trans            &trans    &kp LARW  &kp DARW  &kp UARW  &kp RARW  &kp PRSC
    &kp LSFT   &trans          &trans       &trans          &trans       &trans            &kp F12    &trans    &trans    &trans    &trans    &kp INS 
                                                  &kp LGUI        &trans       &kp SPC           &kp RET &trans &kp RALT
                         >;
